@@ -1,3 +1,4 @@
+# curl -fsSL https://raw.githubusercontent.com/wmwood/scripts/refs/heads/main/updates/updates.sh -o updates.sh
 sudo apt update
 sudo apt upgrade -y
 sudo apt full-upgrade -y
